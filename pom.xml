@@ -23,7 +23,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <modules>
-    <module>modulo1</module>
-  </modules>
 </project>
